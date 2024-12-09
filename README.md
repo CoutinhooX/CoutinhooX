@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CD7F3&width=435&lines=Ol%C3%A1!+Bem+vindos+ao+meu+Github!)](https://git.io/typing-svg)<!--
 **CoutinhooX/CoutinhooX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
