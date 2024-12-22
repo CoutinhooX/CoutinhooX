@@ -2,8 +2,9 @@
 <img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif"  min-width="300px" max-width="300px" width="300px" align="right"/>
 
 <p align="left"> 
-  Estudante de Desenvolvimento de Sistemas 
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  .
+  .
+  .
 </p>
 
 ## 🚀 Minhas Skills e Tools
