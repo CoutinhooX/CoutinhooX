@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CD7F3&width=435&lines=Ol%C3%A1!+Bem+vindos+ao+meu+Github!)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif"  min-width="300px" max-width="300px" width="300px" align="right"/>
+<img src="https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif"  min-width="200px" max-width="300px" width="300px" align="right"/>
 
 <p align="left"> 
   .
